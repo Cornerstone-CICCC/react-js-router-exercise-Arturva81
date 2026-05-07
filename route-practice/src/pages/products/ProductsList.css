@@ -1,0 +1,17 @@
+.products-list {
+  list-style: none;
+  padding: 0;
+}
+
+.products-list li {
+  margin-bottom: 1rem;
+}
+
+.products-list a {
+  display: flex;
+  align-items: center;
+}
+
+.products-list span {
+  margin-left: 0.75rem;
+}
